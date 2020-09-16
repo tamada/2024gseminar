@@ -35,5 +35,5 @@ GitHubのユーザID（`tamada`）やプロジェクト名（`MonsterPoker`）�
     * `javac -d classes src/*.java` で `classes` ディレクトリ以下にクラスファイルが作成されます．
     * `java -classpath classes Main` コマンドで実行できます．実行後の処理については，`README.md` をご覧ください．
 
-以上の操作ができれば，[プロジェクトを編集・提出する](../update.md)をご覧ください．
+以上の操作ができれば，[プロジェクトを編集・提出する](update.md)をご覧ください．
 

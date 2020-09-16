@@ -42,6 +42,6 @@
 
 ### プロジェクトを提出する．
 
-* `git push` でローカル環境で変更した内容（コミットした内容）をリモートリポジトリ（`tamada/MonsterPoker`）にアップロードします．
-* `push`するとこれまでにどのような変更が行われてきたかをGitHubのページ（[https://github.com/tamada/MonsterPoker]）にて確認できます．
+* `git push` でローカル環境で変更した内容（コミットした内容）をリモートリポジトリ（[`tamada/MonsterPoker`]((https://github.com/tamada/MonsterPoker))）にアップロードします．
+* `push`するとこれまでにどのような変更が行われてきたかをGitHubのページ（[`tamada/MonsterPoker`](https://github.com/tamada/MonsterPoker)）にて確認できます．
 * こまめに push するようにしましょう．

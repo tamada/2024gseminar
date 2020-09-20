@@ -20,7 +20,7 @@ GitHubのユーザID（`tamada`）やプロジェクト名（`MonsterPoker`）�
     * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_github2.png)
 3. forkボタンを押し，プロジェクトをforkします（自分のリポジトリとして分岐させること）．
     * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_fork.png)
-4. 以下のような画面になっていればforkが完了します．
+4. 以下のような画面になっていればforkが完了しています．
     * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_forked.png)
 
 ## 2. プロジェクトをclone（ダウンロード）する．

@@ -17,8 +17,8 @@
     * https://github.com/igakilab/KGO
     * https://github.com/igakilab/MonsterPoker
     * これらのプロジェクトは，わざとオブジェクト指向的にイケていないように作られています．
-* 提出はGitHub上のプロジェクトとし，そのプロジェクトのURLを[Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=204371&forceview=1)に記入してください．
-* 締め切り　2020-10-29 (Sat) 13:15
+* 提出はGitHub上のプロジェクトとし，そのプロジェクトのURLを[Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=)に記入してください．
+* 締め切り　2022-10-29 (Sat) 13:15
     * 次回のセミナー開始時間まで．
     
 ### 補足事項
@@ -45,6 +45,7 @@
 
 ## 参考
 
+* [Gitでのバージョン コントロールの概要](https://learn.microsoft.com/ja-jp/training/paths/intro-to-vc-git/)
 * [オブジェクト指向は単なる【整理術】だよ](https://qiita.com/br_branch/items/2aa9859d4da41991bbb7) (Qiita)
 * [うまくメソッド名を付けるための参考情報](https://qiita.com/KeithYokoma/items/2193cf79ba76563e3db6) (Qiita)
 * [正しい名前をつけることが大切な理由](https://qiita.com/tutinoco/items/85641c0819d813186f9d) (Qiita)

@@ -1,6 +1,6 @@
-# 2020年度 秋学期 先端情報学セミナーD
+# 2022年度 秋学期 先端情報学セミナーD
 
-このページは，先端情報学セミナーD 2020-09-26, 2020-10-03分（玉田 担当）のページです．
+このページは，先端情報学セミナーD 2022-10-15, 2022-10-22分（玉田 担当）のページです．
 
 ## :speaking_head: 概要
 
@@ -18,7 +18,7 @@
     * https://github.com/igakilab/MonsterPoker
     * これらのプロジェクトは，わざとオブジェクト指向的にイケていないように作られています．
 * 提出はGitHub上のプロジェクトとし，そのプロジェクトのURLを[Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=204371&forceview=1)に記入してください．
-* 締め切り　2020-10-10 (Sat) 13:15
+* 締め切り　2020-10-29 (Sat) 13:15
     * 次回のセミナー開始時間まで．
     
 ### 補足事項
@@ -31,17 +31,17 @@
 
 ## 目次
 
-* [プロジェクトを手元にダウンロードする](https://github.com/tamada/2020gseminar/blob/master/notes/download.md)
-* [プロジェクトを変更・提出する](https://github.com/tamada/2020gseminar/blob/master/notes/update.md)
-* [プロジェクトの修正の方向性](https://github.com/tamada/2020gseminar/blob/master/notes/update_policy.md)
-* [プロジェクトの修正結果の評価](https://github.com/tamada/2020gseminar/blob/master/notes/evaluation.md)
+* [プロジェクトを手元にダウンロードする](https://github.com/tamada/2022gseminar/blob/main/notes/download.md)
+* [プロジェクトを変更・提出する](https://github.com/tamada/2022gseminar/blob/main/notes/update.md)
+* [プロジェクトの修正の方向性](https://github.com/tamada/2022gseminar/blob/main/notes/update_policy.md)
+* [プロジェクトの修正結果の評価](https://github.com/tamada/2022gseminar/blob/main/notes/evaluation.md)
 
 
 ## About
 
 * このページは[玉田](https://tamadalab.github.io)が作成しました．
 * リファクタリング対象のプロジェクトは大阪工業大学の[井垣先生](https://igakilab.github.io)にご提供いただきました．
-* [![クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](https://github.com/tamada/2020gseminar/blob/master/images/license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* [![クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス](https://github.com/tamada/2022gseminar/blob/main/images/license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 参考
 

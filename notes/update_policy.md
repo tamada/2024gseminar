@@ -151,4 +151,4 @@ private int summingList(List<Integer> list, Predicate<Integer> predicate){
 }
 ```
 
-Streamでどのように書けば良いのかは [Issue](https://github.com/tamada/2020gseminar/issues)などで聞いてもらえればできる限りお答えします．
+Streamでどのように書けば良いのかは [Issue](https://github.com/tamada/2022gseminar/issues)などで聞いてもらえればできる限りお答えします．

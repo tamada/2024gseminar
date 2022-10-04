@@ -15,18 +15,18 @@ GitHubのユーザID（`tamada`）やプロジェクト名（`MonsterPoker`）�
 ## 1. プロジェクトをforkする．
 
 1. [igakilab/MonsterPoker](https://github.com/igakilab/MonsterPoker)のGitHubのページを開きます．
-    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_github.png)
+    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2022gseminar/blob/main/images/monsterpoker_github.png)
 2. GitHubのページの左上のリポジトリの名前が`igakilab/MonsterPoker`になっていることを確認しましょう．
-    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_github2.png)
+    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2022gseminar/blob/main/images/monsterpoker_github2.png)
 3. forkボタンを押し，プロジェクトをforkします（自分のリポジトリとして分岐させること）．
-    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_fork.png)
+    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2022gseminar/blob/main/images/monsterpoker_fork.png)
 4. 以下のような画面になっていればforkが完了しています．
-    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_forked.png)
+    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2022gseminar/blob/main/images/monsterpoker_forked.png)
 
 ## 2. プロジェクトをclone（ダウンロード）する．
 
 5. コードをダウンロードするURLをクリップボードにコピーしましょう．`code`ボタンを押し，下図のコピーアイコンをクリックしてください．
-    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2020gseminar/blob/master/images/monsterpoker_clone.png)
+    * ![igakilab/MonsterPokerのGitHubページ](https://github.com/tamada/2022gseminar/blob/main/images/monsterpoker_clone.png)
 6. ターミナルを開き，適当なディレクトリで，`git clone `と入力後，先ほどコピーしたURLをペーストしてコマンドを実行してください．これにより，リモートリポジトリの内容をローカル環境に複製（クローン）します．
     * 上の例であれば，`git clone git@github.com:tamada/MonsterPoker.git` というコマンドを実行します．
       コマンドを実行したディレクトリに `MonsterPoker` というディレクトリが作成されます．

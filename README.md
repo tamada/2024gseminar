@@ -1,41 +1,49 @@
-# 2022年度 秋学期 先端情報学セミナーD
+# 2024年度 秋学期 先端情報学セミナーD
 
-このページは，先端情報学セミナーD 2022-10-15, 2022-10-22分（玉田 担当）のページです．
+このページは，先端情報学セミナーDの玉田担当分（2024-10-31 (Thu), 2024-11-09 (Sat)）のページです．
 
-## :speaking_head: 概要
-
-### 目的
+## :speaking_head: 目的
 
 リファクタリングを通じて，バージョン管理システム（git）の使い方，
 そして，スモールオブジェクトプログラミングの考え方に触れる．
 
-### やること
+## やること
 
 * 次に挙げるプロジェクトのうちの一つを選択し，リファクタリングしてください．
-    * https://github.com/igakilab/monsterzoo
-    * https://github.com/igakilab/redfantasy
-    * https://github.com/igakilab/KGO
-    * https://github.com/igakilab/MonsterPoker
-    * これらのプロジェクトは，わざとオブジェクト指向的にイケていないように作られています．
-* 提出はGitHub上のプロジェクトとし，そのプロジェクトのURLを[Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=)に記入してください．
-* 締め切り　2022-10-29 (Sat) 13:15
-    * 次回のセミナー開始時間まで．
-    
+  * https://github.com/igakilab/redfantasy
+  * https://github.com/igakilab/KGO
+  * https://github.com/igakilab/MonsterPoker
+  * https://github.com/igakilab/monsterzoo
+  * これらのプロジェクトは，わざとオブジェクト指向的にイケていないように作られています．
+* 提出はGitHub上のプロジェクトとし，そのプロジェクトのURLを[Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=136426)に記入してください．
+* 締め切り　2024-11-16 (Sat) 13:15
+  * 次回のセミナー開始時間まで．
+
 ### 補足事項
 
 ３人までのグループで取り組んでも構いません．
 その場合，以下の点に注意してください．
 
-* [Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=204371&forceview=1)にはプロジェクトのURLと各人のGitHubでのユーザIDも明記してください．
+* [Moodleの課題](https://cclms.kyoto-su.ac.jp/mod/assign/view.php?id=136426)にはプロジェクトのURLと各人のGitHubでのユーザIDも明記してください．
 * 誰がどの部分を担当したのか，プルリクエストやIssueなどで明確にしてください．
 
-## 目次
+### 手順
 
-* [プロジェクトを手元にダウンロードする](https://github.com/tamada/2022gseminar/blob/main/notes/download.md)
-* [プロジェクトを変更・提出する](https://github.com/tamada/2022gseminar/blob/main/notes/update.md)
-* [プロジェクトの修正の方向性](https://github.com/tamada/2022gseminar/blob/main/notes/update_policy.md)
-* [プロジェクトの修正結果の評価](https://github.com/tamada/2022gseminar/blob/main/notes/evaluation.md)
+* [プロジェクトを手元にダウンロードする](https://github.com/tamada/2024gseminar/blob/main/notes/download.md)
+* [プロジェクトを変更・提出する](https://github.com/tamada/2024gseminar/blob/main/notes/update.md)
+* [プロジェクトの修正の方向性](https://github.com/tamada/2024gseminar/blob/main/notes/update_policy.md)
+* [プロジェクトの修正結果の評価](https://github.com/tamada/2024gseminar/blob/main/notes/evaluation.md)
 
+### サンプルプロジェクト
+
+* [fizzbuzz](https://github.com/tamada/fizzbuzz)
+* [triangle](https://github.com/tamada/triangle)
+
+以下のプロジェクトのひな形は，`src` 以下に何もない状態です．
+`src/main` にプロダクトコード，`src/test` にテストコードを配置して `./gradlew build` を実行するとテストが実施され，カバレッジレポート（`build/reports/jacoco/test/html`），SpotBugsのレポート（`build/reports/spotbugs/main.html`）などが出力されます．
+ご自由に利用してください．
+
+* [プロジェクトの雛形](https://github.com/tamada/gradle_template)
 
 ## About
 
